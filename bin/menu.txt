@@ -1,0 +1,11 @@
+--------------------------------------------
+|      CONVOLUTIONAL NEURAL NETWORK        |
+--------------------------------------------
+| 1. Make a database			   |
+| 2. Train the convolutional neural network|
+| 3. Load your own image & see the results |
+| 4. About project                         |
+| 5. Exit the program                      |
+| 6. Backup                                |
+--------------------------------------------
+
